@@ -11,5 +11,5 @@ O projeto inclui análise exploratória de dados, tratamento de valores ausentes
 **Ferramentas:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
   
 ##  Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/samuel-gerga/))
+- [LinkedIn](https://www.linkedin.com/in/samuel-gerga/)
 - [Email](samuelgerga@gmail.com)
