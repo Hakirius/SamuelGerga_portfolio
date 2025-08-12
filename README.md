@@ -5,7 +5,7 @@ Nesta página você encontrará alguns projetos de autoaprendizado, com foco em 
 
 ## Projetos Machine Learning:
 
-### [Housing Price Prediction]([https://github.com/Hakirius/housing-price-analysis])
+### [Housing Price Prediction](https://github.com/Hakirius/housing-price-analysis)
 Modelo de regressão para prever preços de imóveis com base em atributos como área, número de quartos, localização e idade da propriedade.  
 O projeto inclui análise exploratória de dados, tratamento de valores ausentes, engenharia de variáveis e comparação de diferentes algoritmos de Machine Learning para otimização de performance.  
 **Ferramentas:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
